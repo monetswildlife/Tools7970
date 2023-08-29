@@ -1,0 +1,8 @@
+---
+title: "Tools7970"
+output: html_notebook
+---
+
+#Date 8/30/23
+
+this is where I will type my journal entry tomorrow
