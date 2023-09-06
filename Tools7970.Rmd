@@ -1,0 +1,8 @@
+---
+title: "Tools7970"
+output: html_notebook
+---
+
+#Date 8/30/23
+
+This week's discussion left me unsure about my feelings on using AI in science. Originally, I went into this discussion thinking AI would be inevitably used in science and the scientific process, and could not be completely outlawed. I also felt as if our current systems of checking for unethical behavior were acceptable enough to deal with issues of AI, especially concerning plagiarism. Following the class discussion however, I realize the topic is much more nuanced, and that the scientific community really isn't as close to having a consensus on how we move forward with dealing with AI at the current moment. It is encouraging that there are many steps being taken to address this modern issue (ie. journals requiring statements of AI use upon submission of papers), and that plagiarism software may be promisingly updated to better spot AI. However, I left the conversation more concerned with the fact that this technology will rapidly advance, potentially at a pace that the greater scientific community is not prepared to handle. In the end, the questions are far more nuanced than "people using AI ethically or not" and really span into larger topics such as "what is the role of human thought and creativity in the scientific process". 
