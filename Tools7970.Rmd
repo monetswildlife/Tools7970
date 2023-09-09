@@ -1,13 +1,19 @@
 ---
 title: "Tools7970"
-output: html_notebook
+output:
+  html_document:
+    df_print: paged
 ---
 
-#Date 8/30/23
+# Date 8/30/23
 
 This week's discussion left me unsure about my feelings on using AI in science. Originally, I went into this discussion thinking AI would be inevitably used in science and the scientific process, and could not be completely outlawed. I also felt as if our current systems of checking for unethical behavior were acceptable enough to deal with issues of AI, especially concerning plagiarism. Following the class discussion however, I realize the topic is much more nuanced, and that the scientific community really isn't as close to having a consensus on how we move forward with dealing with AI at the current moment. It is encouraging that there are many steps being taken to address this modern issue (ie. journals requiring statements of AI use upon submission of papers), and that plagiarism software may be promisingly updated to better spot AI. However, I left the conversation more concerned with the fact that this technology will rapidly advance, potentially at a pace that the greater scientific community is not prepared to handle. In the end, the questions are far more nuanced than "people using AI ethically or not" and really span into larger topics such as "what is the role of human thought and creativity in the scientific process". 
 
+<span style="color:red">I couldn't agree more! For me, there are definitely pros and cons, and I want to be able to harness the good stuff about AI technology while avoiding the dangers, but it seems like things are moving so fast that we don't have time to figure out the rules - Jonathon</span>
 
-#Date 9/6/23
 
-After today's discussion I was left feeling a bit hopeless about diversity and inclusion in Universities. In theory, its great that people are discussing these problems more and more, and that the experiences of minorities in academia and stem are being better received. I appreciate the article that we read, and the institutional suggestions being made to "fix" the diversity problem. But to truly be effectively enacted, the institutions and individuals with the most power need to be the ones implementing change. The burden of DEI falls on the disenfranchised. The pipeline is leaking out diversity, yet the most prominent institutional change we could discuss today was including diversity statements of candidates seeking positions at the university. The university and all its traditionally fraught systemic power, hiring from a pool of applicants that have not yet fully leaked from the pipeline, and requiring the fluid in this pipeline to fix the leaks. New faculty in academia have to prove how they can fix the problems that riddle the very institutions themselves. 
+# Date 9/6/23
+
+After today's discussion I was left feeling a bit hopeless about diversity and inclusion in Universities. In theory, its great that people are discussing these problems more and more, and that the experiences of minorities in academia and stem are being better received. I appreciate the article that we read, and the institutional suggestions being made to "fix" the diversity problem. But to truly be effectively enacted, the institutions and individuals with the most power need to be the ones implementing change. The burden of DEI falls on the disenfranchised. The pipeline is leaking out diversity, yet the most prominent institutional change we could discuss today was including diversity statements of candidates seeking positions at the university. The university and all its traditionally fraught systemic power, hiring from a pool of applicants that have not yet fully leaked from the pipeline, and requiring the fluid in this pipeline to fix the leaks. New faculty in academia have to prove how they can fix the problems that riddle the very institutions themselves.
+
+<span style="color:red">Well said. I fear that the only real solution is to wait 20 years until folks who have grown up thinking about these topics are actually working at the administrative level and then have the power to make changes. - Jonathon</span>
