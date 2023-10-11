@@ -27,12 +27,16 @@ After today's discussion I was left feeling a bit hopeless about diversity and i
 
 I enjoyed learning about and thinking about the reproducibility crisis in science. It is something I have only dealt with secondhand, for instance using datasets with data I had not collected. I especially agree with the reading in that people are more likely to scrutinize data when the answers do not fit hypotheses, as opposed to accepting potentially incorrect, but more logical-sounding results. Technology also presents both interesting problems and solutions for this issue. For instance, things such as github and open source data can help increase transparency and help reduce errors throughout the process of data analysis. While these seem like good tools, I think there might be some trouble in adopting these practices with people who fear being scooped. Additionally, the rapid increase in technology has created a lot of environments that can feel like a "black box" for research. Such as running statistical analyses with simple code, without fully understanding the stats. But with this discussion, I was exposed to something I really hadn't given much thought to previously. 
 
+<span style="color:red">Awesome!  That's the whole purpose of this class. None of this is simple, but it's all worth thinking about. - Jonathon</span>
+
 
 ---
 
 #Date 9/20/23
 
 It was interesting reading this article about publishing biases, I especially enjoyed the fact that this authors in this article were funded by an NGO with potential biases. Overall, I feel like there will always be biases in science and scientific research. Wherever there are people, involved, and people who need money from research, you can't avoid having to get funding and that funding potentially biasing your research. I think they brought up a good point for proposing more transparency through interviews/disclosing funding sources. I also found it interesting that there were discrepancies in quality between the science being done by private and public funding. I would like to see this same kind of study done in the natural resource field, with current research practices and funding. It would also be interesting to document differences in public trust in the science depending on funding sources. I feel like what we consider more trustworthy (ie. federal programs like NSF), wouldn't be considered as trustworthy by a lot of the public today, due to a lot less trust in the government
+
+<span style="color:red">They definitley showed that there were different outcomes between different funding sources, but to me, it's hard to say that the "quality" of the science is better or worse based on one funding source. Good questions about public trust. I really have no idea what the outcome of something like that would be, but I suspect that there would be a strong interaction with political affiliation. - Jonathon</span>
 
 
 ---
@@ -41,7 +45,7 @@ It was interesting reading this article about publishing biases, I especially en
 Following this discussion I truly believe that citizen science is a tool that we can use to make science a more inclusive space and to reach a wider audience. Like other tools discussed in this class, it is important that researchers conducting projects using citizen science data be aware of the potential limitations, and attempt to control for or at least acknowledge the limitations of the data usage. In general, science is a lot more biased than I think any scientist would like to admit--just a survey of the races/genders and identities that have predominated the scientific method over time, and the systems that remain are proof that many groups are underrepresented. Citizen science, and seeing value in its collection, is one way that we can bridge this huge disconnect between us and the public that we are often criticized for. Additionally, allowing a potentially more diverse citizen group to collect data should produce data from a variety of potenitally understudied areas. Finally, if the data is "bad" and the measurements "useless", we should still see and acknowledge the value to science that comes from better engagement and education of the public about science, how it is done, and what researchers do. 
 
 
-
+<span style="color:red">I hadn't thought much about the potential for citizen science to include underrepresented communities in the scientific process. Good food for thought for me as well. - Jonathon</span>
 
 
 
