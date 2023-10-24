@@ -54,3 +54,16 @@ Following this discussion I truly believe that citizen science is a tool that we
 #Date 10/11/23
 
 Today's discussion on hypotheses in research revealed a lot about the ways we think people should approach scientific thinking and design. I think by the end of the class, we all agreed that papers and projects utilize the same scientific thinking and approach, but disagreed on whether or not  a formal hypothesis is always necessary. Formally writing structured hypotheses seems more of a formality to me in a lot of cases, and I absolutely see the utility of including hypotheses for clarifying research objectives. In practice, I think they are not always 100% necessary, so long as the research goes into an endeavor with clear objectives, backed by prior knowledge. While I think they may not always be necessary, they can help easily show clear objectives with sound raitonale, and can facilitate communicating these things in a good, easily identifiable way. I do see the value in including hypotheses as a way to reduce publication biases towards studies that only find significant relationships. If a paper can clearly have a testable hypothesis, and multiple alternatives, and this is clearly communicated, then papers in support of null results may be more favorably viewed for publications. Sorry Jonathon, I am not 100% convinced hypotheses are entirely necessary (and might I note, the paper wasn't either and mentions several exceptions)
+
+
+
+---
+#Date 10/18/23
+
+I enjoyed reading today's paper on predatory journals, and it is something I feel like I have been trying to navigate recently. There are numerous emails that I see in my junk folder that very obviously reek of being illegitimate, but I have also fallen for some that are much more polished and make it to my inbox. For example, the journal Animals put out a call for papers on a topic that related to a paper I am currently working on. When I brought this up to Ditchkoff, he said that basically any journal that resides within the publisher MDPI should be avoided. Even just looking up this journal online, it has an impact factor of 3.0, higher than Journal of Wildlife Management, which our lab frequenly publishes in. This makes it especially confusing; there is so much grey area in what is predatory or not. Similarly, the question is raised as to whether or not we should read or even cite papers published in these journals. Our class discussion touched on the fact that good science could still be published in bad journals, and that bad science can be published with the journal. I agree with the article that the burden of proof should like on the journal to meet the skepticism of scientists who are aware of malpractice, but it feels very frustrating to acknowledge that the journals that are truly predatory can do a bit to work around this and appear trustworthy. Some ideas that might help to increase knowledge of which journals are predatory (although this definition is ultimately a little subjective) includes: peer review independent of a journal, lists put out by trusted proffessional societies, and increased institiutional oversight (universities and research institutes investing time and energy to figure out and tell employees to avoid predatory journals)
+
+
+
+---
+#Date 10/25/23
+
