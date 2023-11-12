@@ -51,36 +51,42 @@ Following this discussion I truly believe that citizen science is a tool that we
 
 
 ---
-#Date 10/11/23
+
+# Date 10/11/23
 
 Today's discussion on hypotheses in research revealed a lot about the ways we think people should approach scientific thinking and design. I think by the end of the class, we all agreed that papers and projects utilize the same scientific thinking and approach, but disagreed on whether or not  a formal hypothesis is always necessary. Formally writing structured hypotheses seems more of a formality to me in a lot of cases, and I absolutely see the utility of including hypotheses for clarifying research objectives. In practice, I think they are not always 100% necessary, so long as the research goes into an endeavor with clear objectives, backed by prior knowledge. While I think they may not always be necessary, they can help easily show clear objectives with sound raitonale, and can facilitate communicating these things in a good, easily identifiable way. I do see the value in including hypotheses as a way to reduce publication biases towards studies that only find significant relationships. If a paper can clearly have a testable hypothesis, and multiple alternatives, and this is clearly communicated, then papers in support of null results may be more favorably viewed for publications. Sorry Jonathon, I am not 100% convinced hypotheses are entirely necessary (and might I note, the paper wasn't either and mentions several exceptions)
 
 
 
 ---
-#Date 10/18/23
+
+# Date 10/18/23
 
 I enjoyed reading today's paper on predatory journals, and it is something I feel like I have been trying to navigate recently. There are numerous emails that I see in my junk folder that very obviously reek of being illegitimate, but I have also fallen for some that are much more polished and make it to my inbox. For example, the journal Animals put out a call for papers on a topic that related to a paper I am currently working on. When I brought this up to Ditchkoff, he said that basically any journal that resides within the publisher MDPI should be avoided. Even just looking up this journal online, it has an impact factor of 3.0, higher than Journal of Wildlife Management, which our lab frequenly publishes in. This makes it especially confusing; there is so much grey area in what is predatory or not. Similarly, the question is raised as to whether or not we should read or even cite papers published in these journals. Our class discussion touched on the fact that good science could still be published in bad journals, and that bad science can be published with the journal. I agree with the article that the burden of proof should like on the journal to meet the skepticism of scientists who are aware of malpractice, but it feels very frustrating to acknowledge that the journals that are truly predatory can do a bit to work around this and appear trustworthy. Some ideas that might help to increase knowledge of which journals are predatory (although this definition is ultimately a little subjective) includes: peer review independent of a journal, lists put out by trusted proffessional societies, and increased institiutional oversight (universities and research institutes investing time and energy to figure out and tell employees to avoid predatory journals)
 
 
 
 ---
-#Date 10/25/23
+
+# Date 10/25/23
 
 This class discussion on preregistration was interesting. When I first started researching for my presentation, I initially thought I would be against preregistration becoming the new norm. There were a lot of concerns I had with whether it allowed a lot of flexibility with changes to a research plan. Upon more research, it seemed that the benefits would be pretty useful--getting peer review earlier on when you can actually make changes to the study design, as well as potentially having an easier pathway to publication following the study. Additionally, it seemed like a good way to reduce publication biases associated with publishing only significant findings. My concerns were dispelled by a lot of peer reviewed publications touting the adaptability of preregistration. However, once we were in class, it seems like these publications praising it may have also been biased, and that in practice, this process really isn't as helpful as its advocates tout. All in all, given that many stages of research are subject to oversight (like IACUC, IRB, grant applications and deliverables, graduate research proposals, thesis writing and defenses, academic committees, and outside readers), I think a lot of the benefits of preregistration may be achieved in other ways, without the potential time costs of preregistrations. 
 
 
+<span style="color:red">Good points. Yeah, this sort of feels like Communism to me, where it's a good idea in theory, but in practice it doesn't really work out as intended. - Jonathon</span>
 
 ---
-#Date 11/1/23
+
+# Date 11/1/23
 
 I really enjoyed the discussion this week on whether or not the peer review process should be double blind or completely transparent. I honestly do not know where I stand after this discussion. I know that there are limitless and unknown biases any reviewer could have, and it was interesting to see data in this paper that show just how much these biases could present themselves. It was also interesting to note that these biases were only associated with how well-known the author was. It didn't include other potential ethnic or gender biases. I feel like I still would choose completely blind peer review over completely transparent. We all know that in some smaller fields, it may still be entirely possible to figure out who the author or at least the lab is from a lot of the methods. But I just feel like there are too many potential issues I see with completely transparent reviews. Whether that be biases associated with reviewing a well-known author less rigorously, or dampening harsh reviews because authors will know who you are. This class always leaves me feeling way more aware of an issue and way less aware of what the solution is!
 
-
+<span style="color:red">Haha, well we are purposefully choosing to talk about challenges that don't really have easy solutions. I'm definitely team double-blind peer review, but recognize it's complicated. - Jonathon</span>
 
 ---
-#Date 11/1/23
+
+# Date 11/1/23
 
 I enjoyed the discussion on science communication, and felt like we talked a lot about the importance of it. At least among those in the class, we seemed to be less hesitant to accept that not only is it necessary, but can be quite helpful. There are so many potentially moral obligations that scientists may have absolved themselves of previously, such as not even attempting to communicate with the general public. I feel like the tides have turned and we all accept that it isn't ok to just sit in our ivory towers. But how everyone chooses to do science communication can be very different. Our class discussion mostly focused on social media, and dove into the many potential problems (algorithm echo chambers, fear of being targeted online, competing with others who have larger followings). I think one thing we should have talked about more is the extensive number of ways that we can do science communication, that do not require us to become mini influencers online, cautiously exposing ourselves to criticism and sharing so much of our personal lives with strangers. I have a background in environmental education and communication with the public--I worked at a zoo for three years teaching camps and facilitating guest interactions and experiences with the zoo animals. No doubt social media is important, but I have firsthand seen how it was important in our jobs to talk about wildlife with guests at the zoo, and how you could engage on topics like conservation and research that the zoo supported/partnered with. Similarly, I have worked with children for earth-day events (Dr. Peresin's Rallying for sustainable communities) and worked with MANNRS high school and middle school students to teach about wildlife biology as a career pathway. And I know that the same benefits we discussed in class are there in those experiences, yet we didn't discuss those things at all. I will probably continue to do all those things in person, and generally limit my online exposure to my (very very under used) twitter account, and posting to our Auburn Deer Lab Facebook page. I can be visible as a face that isn't normally seen in the scientific scene, without the direct ties to my personal pages, where I prefer to interact with friends and family. I think a lot about an incident that happened with a female graduate student in southern california--where she was euthanizing starlings as a part of her research (because they are invasive and that is generally part of USDA requirements), and animal right's activists had honed in on her, threatening her, protesting and causing scenes at conferences, finding her address etc. They didn't do this to everyone else she worked with, nor did they direct this anger towards the PI or the university nearly as much as it focused in on her. At my stage in my career, I quite frankly feel like I fit into a too vulnerable and targetable position to feel like I can truly feign "my true self" on a super large scale. 
 
-
+<span style="color:red">Wow, I just learned a lot from your post, Monet. Very thoughtful. Thanks so much for sharing. - Jonathon</span>
